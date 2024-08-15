@@ -1,9 +1,9 @@
-####Inventory Management System
+#### Inventory Management System
 
-Project Overview
+### Project Overview
 This project is a simple inventory management system built using Node.js and Express. It allows users to create, retrieve, edit, and search for categories, subcategories, and items within an inventory. The project is flexible enough to work with any SQL-based database.
 
-Features
+## Features
 Create Categories, Subcategories, and Items
 Get Categories, Subcategories, and Items by various filters
 Edit Categories, Subcategories, and Items
@@ -18,7 +18,7 @@ Project Setup
 bash
 Copy code
 git clone https://github.com/AshishJadhav45/guestara.git
-cd inventory-management-system
+cd guestara
 2. Install dependencies
 
 npm install
@@ -28,7 +28,7 @@ Update the database configuration in config/db.js to match your SQL database cre
 4. Run SQL Table Creation Scripts
 Create the necessary tables in your database by running the following SQL scripts:
 
-sql
+## sql
 
 CREATE TABLE categories (
     id INT AUTO_INCREMENT PRIMARY KEY,
