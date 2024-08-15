@@ -1,4 +1,4 @@
-#### Inventory Management System
+# Inventory Management System
 
 ### Project Overview
 This project is a simple inventory management system built using Node.js and Express. It allows users to create, retrieve, edit, and search for categories, subcategories, and items within an inventory. The project is flexible enough to work with any SQL-based database.
